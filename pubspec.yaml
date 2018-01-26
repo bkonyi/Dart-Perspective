@@ -1,0 +1,13 @@
+name: Perspective
+description: A Dart interface for Google's Perspective Comment Analyzer API.
+version: 0.0.1
+homepage: https://github.com/bkonyi/Dart-Perspective
+author: bkonyi <bkonyi@google.com>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: ^0.12.0
